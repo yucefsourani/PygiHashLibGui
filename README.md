@@ -41,6 +41,6 @@ Gui For hashLib
 
 * Install On Windows
 
-  * ``` https://github.com/yucefsourani/PygiHashLibGui/raw/master/windows/pygihashlibgui.zip ```
+  * <https://github.com/yucefsourani/PygiHashLibGui/raw/master/windows/pygihashlibgui.zip>
 
 
