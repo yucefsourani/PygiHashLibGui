@@ -9,7 +9,7 @@ Gui For hashLib
 ![Alt text](https://raw.githubusercontent.com/yucefsourani/PygiHashLibGui/master/Screenshot/1.jpg "Screenshot")
 
 
-![Alt text](https://raw.githubusercontent.com/yucefsourani/PygiHashLibGui/master/Screenshot/2.png "Screenshot")
+![Alt text](https://raw.githubusercontent.com/yucefsourani/PygiHashLibGui/master/Screenshot/2.jpg "Screenshot")
 
 
 
