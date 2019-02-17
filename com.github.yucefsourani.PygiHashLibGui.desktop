@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PygiHashLibGui
+GenericName=hash
+Comment=Gui For hashLib
+Exec=/usr/bin/pygihashlibgui
+Icon=com.github.yucefsourani.PygiHashLibGui
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Utility;
