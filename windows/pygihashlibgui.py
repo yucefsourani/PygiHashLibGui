@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  pyhashlibgui.py
+#  pygihashlibgui.py
 #  
 #  Copyright 2019 youcef sourani <youssef.m.sourani@gmail.com>
 #  
